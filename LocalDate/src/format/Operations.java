@@ -1,5 +1,5 @@
 package format;
 
-public static class Operations {
+public abstract class Operations {
 
 }
